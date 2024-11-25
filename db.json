@@ -22,23 +22,5 @@
     "isbn": "978-0-321-71988-1",
     "title": "Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences",
     "summary": "This book explains how to create websites that grab attention and engage users with elements of playfulness and fun. Through case studies and examples, it explores the art of balancing aesthetics and functionality to create memorable experiences."
-  },
-  {
-    "genre": "Non-fiction",
-    "isbn": "978-1-59327-424-5",
-    "title": "How to Design Programs",
-    "summary": "A comprehensive introduction to programming concepts and design, this book is ideal for both beginners and experienced programmers who want to refine their skills. It emphasizes structured thinking, problem-solving, and design patterns."
-  },
-  {
-    "genre": "Non-fiction",
-    "isbn": "978-0-12-385241-0",
-    "title": "Measuring the User Experience",
-    "summary": "This book provides essential techniques for gathering, analyzing, and presenting usability data. It explains a variety of metrics, tools, and approaches to help teams improve the user experience in their products and services."
-  },
-  {
-    "genre": "Non-fiction",
-    "isbn": "978-1-449-37446-8",
-    "title": "UX for Beginners: A Crash Course in 100 Short Lessons",
-    "summary": "A beginner-friendly guide to UX design, broken into 100 concise lessons. The book covers topics like user research, wireframing, prototyping, and usability testing in a practical, easy-to-digest format."
   }
 ]
