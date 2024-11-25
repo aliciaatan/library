@@ -1,14 +1,44 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "genre": "Non-fiction",
+    "isbn": "978-0-596-52068-7",
+    "title": "The Design of Everyday Things",
+    "summary": "The Design of Everyday Things shows that good, usable design is possible. It explains how, by making things visible, exploiting natural relationships that couple function and control, and making intelligent use of constraints, designers can produce appliances and other devices that are easy to use and understand."
+  },
+  {
+    "genre": "Non-fiction",
+    "isbn": "978-1-118-02790-5",
+    "title": "Lean UX: Applying Lean Principles to Improve User Experience",
+    "summary": "Lean UX shows you how to integrate user experience design, product design, and Agile development methodologies into your company’s workflow. This book helps you reduce waste, enhance team collaboration, and focus on outcomes rather than outputs. With case studies and actionable advice, Lean UX is an essential guide for designers and developers alike."
+  },
+  {
+    "genre": "Non-fiction",
+    "isbn": "978-0-470-88091-0",
+    "title": "Don't Make Me Think (Original)",
+    "summary": "A classic introduction to user experience and design principles. This edition laid the foundation for web and mobile usability, stressing the importance of intuitive navigation and user-centered design. An essential read for anyone looking to create user-friendly interfaces."
+  },
+  {
+    "genre": "Non-fiction",
+    "isbn": "978-0-321-71988-1",
+    "title": "Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences",
+    "summary": "This book explains how to create websites that grab attention and engage users with elements of playfulness and fun. Through case studies and examples, it explores the art of balancing aesthetics and functionality to create memorable experiences."
+  },
+  {
+    "genre": "Non-fiction",
+    "isbn": "978-1-59327-424-5",
+    "title": "How to Design Programs",
+    "summary": "A comprehensive introduction to programming concepts and design, this book is ideal for both beginners and experienced programmers who want to refine their skills. It emphasizes structured thinking, problem-solving, and design patterns."
+  },
+  {
+    "genre": "Non-fiction",
+    "isbn": "978-0-12-385241-0",
+    "title": "Measuring the User Experience",
+    "summary": "This book provides essential techniques for gathering, analyzing, and presenting usability data. It explains a variety of metrics, tools, and approaches to help teams improve the user experience in their products and services."
+  },
+  {
+    "genre": "Non-fiction",
+    "isbn": "978-1-449-37446-8",
+    "title": "UX for Beginners: A Crash Course in 100 Short Lessons",
+    "summary": "A beginner-friendly guide to UX design, broken into 100 concise lessons. The book covers topics like user research, wireframing, prototyping, and usability testing in a practical, easy-to-digest format."
   }
-}
+]
